@@ -57,9 +57,8 @@ Some project ideas to showcase:
 
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fourtory404&layout=compact)
 
 ---
 *"In investing, what is comfortable is rarely profitable."* - Robert Arnott
